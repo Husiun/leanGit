@@ -3,3 +3,5 @@ Git is free software.
 
 
 add something
+
+add GPL
