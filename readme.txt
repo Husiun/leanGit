@@ -5,3 +5,7 @@ Git is free software.
 add something
 
 add GPL
+
+
+Git tracks changes.
+git haha
