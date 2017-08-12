@@ -9,3 +9,4 @@ add GPL
 
 Git tracks changes.
 git haha  of files
+git  connect long-distance
