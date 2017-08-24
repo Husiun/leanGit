@@ -1,14 +1,4 @@
-Git is a version control system.
-Git is free software.
-
-
-add something
-
-add GPL
-
-
-Git tracks changes.
-git haha  of files
-git  connect long-distance
-
-the second modify connect long-distance
+            初入git，学习积累
+	初步学习git，自己做的一个学习笔记，主要参考网上廖雪峰关于git的教程，是一个很好的入门级别教程
+从了解基本概念，基本命令，到远程库的连接说的都很好；这是我git的启蒙；
+    当然后期还有参考其他的一些累积，有的话会继续加上，进行说明，，，
